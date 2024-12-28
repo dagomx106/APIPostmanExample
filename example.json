@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "2ebdf2b9-1d1e-46ef-aebd-5281ee82edd3",
-		"name": "Passing Postman collection",
+		"name": "Passing  Postman collection",
 		"description": "Makes four requests to HTTPBin (httpbin.org) and tests Newman",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "22250096"
